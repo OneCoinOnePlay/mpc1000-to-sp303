@@ -1,13 +1,13 @@
 # MPC1000 to SP-303 Converter
 
-Convert MPC1000 drum programs (.pgm files) to Boss Dr. Sample SP-303 format with automatic sample preprocessing.
+Convert MPC1000 drum programs (.pgm files) and samples (.wav files) to Boss Dr. Sample SP-303 format with automatic sample preprocessing.
 
 ## Features
 
-- 🎵 **Parse MPC1000 .pgm files** - Extract all 64 pad assignments
-- 📁 **Organize into 8 banks** - Creates Bank_A through Bank_H ready for SP-303
-- ⚡ **Auto-pad short samples** - Fixes samples shorter than 110ms (SP-303 requirement)
-- ✅ **Tested on real hardware** - Verified working on actual SP-303
+- **Parse MPC1000 .pgm files** - Extract all 64 pad assignments
+- **Organize into 8 banks** - Creates Bank_A through Bank_H ready for SP-303
+- **Auto-pad short samples** - Fixes samples shorter than 110ms (SP-303 requirement)
+- **Tested on real hardware** - Verified working on actual SP-303
 
 ## Quick Start
 
